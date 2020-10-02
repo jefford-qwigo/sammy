@@ -32,3 +32,5 @@ class APIBackendTestCase(AlexaTestCase):
 class HelloWorldTestCase(AlexaTestCase):
     template_name = 'hello_world.yaml'
     template = hw
+
+# test
